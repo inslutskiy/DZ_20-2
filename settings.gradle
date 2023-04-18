@@ -1,0 +1,5 @@
+rootProject.name = 'DZ_20-2'
+
+include 'db'
+include 'service'
+include 'api'
